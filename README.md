@@ -1,16 +1,14 @@
 #  Hamburgueria Desktop
 
-Design feito nas ferramentas Bunifu.
-
 ![https://bunifuframework.com/](https://github.com/joaopedro29/HamburgueriaBunifu/blob/main/Image/logoBunifu.png)
 
 
-## Tela Home
+## Page Home
 
 ![Home Gif](https://github.com/joaopedro29/HamburgueriaBunifu/blob/main/Image/gifHome.gif)
 
 
-## Produto 🛒
+## products 🛒
 
 ![Design Produto](https://github.com/joaopedro29/HamburgueriaBunifu/blob/main/Image/gifProd.gif)
 
@@ -18,17 +16,17 @@ Design feito nas ferramentas Bunifu.
 
 ![Design Cards](https://github.com/joaopedro29/HamburgueriaBunifu/blob/main/Image/ilusCards.png)
 
-## Descrição
+## description
 
-### Ferramentas Bunifu :
-* BunifuscrollH,
-* Bunifuelipse,
-* BunifupanelShadow,
-* BunifuimageButton,
-* BunifupictureBox,
+### tools Bunifu :
+* BunifuScrollH,
+* BunifuElipse,
+* BunifuPanelShadow,
+* BunifuImageButton,
+* BunifuPictureBox,
 * BunifuButton,
 * BunifuRating
-###  Como usar a Scroll ?:
+###  how to use a scrollbar ?:
 🔗link: https://docs.bunifuframework.com/en/articles/2270593-bunifu-scrollbars
 
 ## Redes
